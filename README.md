@@ -39,18 +39,12 @@ JavaScript evaluates responses
 
 Final score is shown on screen
 
-📸 Screenshot (Add if you want)
-
-You can add a screenshot like this:
-
-![Quiz Screenshot](./screenshot.png)
-
 🔧 Installation & Usage
 
 You can run this project locally in 2 steps:
 
 1️⃣ Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Equationeer/Quiz-Project.git
 
 2️⃣ Open the app
 
